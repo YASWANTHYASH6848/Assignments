@@ -1,0 +1,7 @@
+greet: hell
+app:
+    name: Test
+    desc : welcome to ${app.name} App.
+    url : https://Ind.com
+
+list.values : 1,2,3
